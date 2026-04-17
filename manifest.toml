@@ -71,3 +71,6 @@ ram.runtime = "50M"
 
     [resources.apt]
     packages = "php8.4-zip, php8.4-mbstring, php8.4-dom, php8.4-xml"
+   
+    [resources.composer]
+    version = "2.9.3"
